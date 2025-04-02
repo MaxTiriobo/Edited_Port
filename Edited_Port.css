@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #074317;
+    --secondary-color: #000000;
+    --accent-color: #ffffff;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color)
+}
+p {
+    font-size: 200%;
+}
